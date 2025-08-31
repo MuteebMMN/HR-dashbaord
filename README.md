@@ -28,7 +28,10 @@ The dataset includes:
 
 #  🚀 Features / Highlights<br>
 🔹 <b>Business Problem</b><br>
-Organizations often face challenges in understanding workforce composition, retention, and performance. Without visualization, HR teams struggle to spot trends in hiring, salary disparities, or employee demographics.<br>
+<ul>
+  <li>Organizations often face challenges in understanding workforce composition, retention, and performance. Without visualization, HR teams struggle to spot trends in hiring, salary disparities, or employee demographics.<br>
+</li>
+</ul>
 
 🔹 <b>Goal of the Dashboard</b><br>
  <p>To provide an interactive HR analytics tool that:</p>
@@ -49,7 +52,11 @@ Organizations often face challenges in understanding workforce composition, rete
   </ul>
   
 🔹 <b>Department Analysis (Bar Chart)</b><br>
-Employees hired & terminated across departments (Operations, Sales, IT, etc.)<br>
+
+<ul>
+  <li>Employees hired & terminated across departments (Operations, Sales, IT, etc.
+</li>
+</ul>
 
 🔹 <b>Demographics Section</b><br>
 <ul>
@@ -65,7 +72,11 @@ Employees hired & terminated across departments (Operations, Sales, IT, etc.)<br
   </ul>
 
 🔹 <b>Location Overview (Map + Bar)</b><br>
-Geographic distribution of employees across branches & HQ<br>
+<ul>
+  <li>Geographic distribution of employees across branches & HQ<br>
+</li>
+</ul>
+
 
 # 🔹<b> Business Impact & Insights</b><br>
 👩‍💻 Workforce Diversity: Gender balance & education-level representation.<br>
