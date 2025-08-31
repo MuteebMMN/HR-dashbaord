@@ -31,30 +31,38 @@ The dataset includes:
 Organizations often face challenges in understanding workforce composition, retention, and performance. Without visualization, HR teams struggle to spot trends in hiring, salary disparities, or employee demographics.<br>
 
 🔹 <b>Goal of the Dashboard</b><br>
-To provide an interactive HR analytics tool that:<br>
-Tracks hiring vs. termination trends in real-time<br>
-Evaluates workforce demographics (gender, age, education)<br>
-Assesses performance distribution across education levels<br>
-Analyzes salary variations by age, gender, and education<br>
-Helps HR leaders optimize recruitment and retention strategies<br>
+ <p>To provide an interactive HR analytics tool that:</p>
+  <ul>
+    <li>Tracks hiring vs. termination trends in real-time</li>
+    <li>Evaluates workforce demographics (gender, age, education)</li>
+    <li>Assesses performance distribution across education levels</li>
+    <li>Analyzes salary variations by age, gender, and education</li>
+    <li>Helps HR leaders optimize recruitment and retention strategies</li>
+  </ul>
 
 🔹 <b>Walkthrough of Key Visuals</b><br>
-Key KPIs (Header Section)<br>
-Active Employees: 7,984<br>
-Hired: 8,950<br>
-Terminated: 966<br>
-
+ <h4>📊 Key KPIs (Header Section)</h4>
+  <ul>
+    <li><strong>Active Employees:</strong> 7,984</li>
+    <li><strong>Hired:</strong> 8,950</li>
+    <li><strong>Terminated:</strong> 966</li>
+  </ul>
+  
 🔹 <b>Department Analysis (Bar Chart)</b><br>
 Employees hired & terminated across departments (Operations, Sales, IT, etc.)<br>
 
 🔹 <b>Demographics Section</b><br>
-Gender split (46% Female, 54% Male)<br>
-Education & Age distribution<br>
-Education vs. Performance heatmap<br>
-
+<ul>
+    <li>Gender split (46% Female, 54% Male)</li>
+    <li>Education &amp; Age distribution</li>
+    <li>Education vs. Performance heatmap</li>
+  </ul>
+  
 🔹 <b>Income & Salary Analysis</b><br>
-Salary breakdown by education and gender<br>
-Age vs. Salary scatter plot with job titles<br>
+  <ul>
+    <li>Salary breakdown by education and gender</li>
+    <li>Age vs. Salary scatter plot with job titles</li>
+  </ul>
 
 🔹 <b>Location Overview (Map + Bar)</b><br>
 Geographic distribution of employees across branches & HQ<br>
