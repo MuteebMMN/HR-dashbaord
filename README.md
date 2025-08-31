@@ -42,19 +42,19 @@ Active Employees: 7,984<br>
 Hired: 8,950<br>
 Terminated: 966<br>
 
-<b>Department Analysis (Bar Chart)</b><br>
+🔹 <b>Department Analysis (Bar Chart)</b><br>
 Employees hired & terminated across departments (Operations, Sales, IT, etc.)<br>
 
-<b>Demographics Section</b><br>
+🔹 <b>Demographics Section</b><br>
 Gender split (46% Female, 54% Male)<br>
 Education & Age distribution<br>
 Education vs. Performance heatmap<br>
 
-<b>Income & Salary Analysis</b><br>
+🔹 <b>Income & Salary Analysis</b><br>
 Salary breakdown by education and gender<br>
 Age vs. Salary scatter plot with job titles<br>
 
-<b>Location Overview (Map + Bar)</b><br>
+🔹 <b>Location Overview (Map + Bar)</b><br>
 Geographic distribution of employees across branches & HQ<br>
 
 # 🔹<b> Business Impact & Insights</b><br>
