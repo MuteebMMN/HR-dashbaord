@@ -1,67 +1,67 @@
 # 👩‍💼 Human Resources Dashboard | Tableau
 
-An interactive HR Analytics Dashboard built in Tableau to monitor workforce demographics, employee performance, department-level distribution, and salary insights. This dashboard helps HR managers and executives make data-driven decisions on hiring, retention, and workforce planning.
+An interactive HR Analytics Dashboard built in Tableau to monitor workforce demographics, employee performance, department-level distribution, and salary insights. This dashboard helps HR managers and executives make data-driven decisions on hiring, retention, and workforce planning.<br>
 
 # 📌 Short Description / Purpose
 
-The HR Dashboard provides a comprehensive view of employee data including active staff, hiring vs. termination trends, demographics, education, performance, and salary distribution. It empowers HR teams to evaluate workforce diversity, identify departmental needs, and align HR strategy with organizational goals.
+The HR Dashboard provides a comprehensive view of employee data including active staff, hiring vs. termination trends, demographics, education, performance, and salary distribution. It empowers HR teams to evaluate workforce diversity, identify departmental needs, and align HR strategy with organizational goals.<br>
 
 # 🛠 Tech Stack
 
-The dashboard was built using the following tools and technologies:
-📊 Tableau Desktop – Main platform for dashboard creation and interactivity.
-📂 Data Prep – Data cleaning and shaping before visualization.
-📈 Calculated Fields – To track KPIs (e.g., hires, terminations, salary averages).
-📝 Data Modeling – Relationships defined between employees, departments, and performance attributes.
-📁 File Formats – .twbx (Tableau packaged workbook) for sharing and .png for previews.
+The dashboard was built using the following tools and technologies:<br>
+📊 Tableau Desktop – Main platform for dashboard creation and interactivity.<br>
+📂 Data Prep – Data cleaning and shaping before visualization.<br>
+📈 Calculated Fields – To track KPIs (e.g., hires, terminations, salary averages).<br>
+📝 Data Modeling – Relationships defined between employees, departments, and performance attributes.<br>
+📁 File Formats – .twbx (Tableau packaged workbook) for sharing and .png for previews.<br>
 
-# 📂 Data Source
-Source: HR Dataset (Sample / Simulated Data).
-The dataset includes:
-Employee demographic details (gender, age, education)
-Hiring & termination records
-Salary & income distribution by education and gender
-Department-level workforce distribution
-Performance evaluations
+# 📂 Data Source<br>
+Source: HR Dataset (Sample / Simulated Data).<br>
+The dataset includes:<br>
+Employee demographic details (gender, age, education)<br>
+Hiring & termination records<br>
+Salary & income distribution by education and gender<br>
+Department-level workforce distribution<br>
+Performance evaluations<br>
 
-#  🚀 Features / Highlights
-🔹 <b>Business Problem</b>
-Organizations often face challenges in understanding workforce composition, retention, and performance. Without visualization, HR teams struggle to spot trends in hiring, salary disparities, or employee demographics.
+#  🚀 Features / Highlights<br>
+🔹 <b>Business Problem</b><br>
+Organizations often face challenges in understanding workforce composition, retention, and performance. Without visualization, HR teams struggle to spot trends in hiring, salary disparities, or employee demographics.<br>
 
-🔹 <b>Goal of the Dashboard</b>
-To provide an interactive HR analytics tool that:
-Tracks hiring vs. termination trends in real-time
-Evaluates workforce demographics (gender, age, education)
-Assesses performance distribution across education levels
-Analyzes salary variations by age, gender, and education
-Helps HR leaders optimize recruitment and retention strategies
+🔹 <b>Goal of the Dashboard</b><br>
+To provide an interactive HR analytics tool that:<br>
+Tracks hiring vs. termination trends in real-time<br>
+Evaluates workforce demographics (gender, age, education)<br>
+Assesses performance distribution across education levels<br>
+Analyzes salary variations by age, gender, and education<br>
+Helps HR leaders optimize recruitment and retention strategies<br>
 
-🔹 <b>Walkthrough of Key Visuals</b>
-Key KPIs (Header Section)
-Active Employees: 7,984
-Hired: 8,950
-Terminated: 966
+🔹 <b>Walkthrough of Key Visuals</b><br>
+Key KPIs (Header Section)<br>
+Active Employees: 7,984<br>
+Hired: 8,950<br>
+Terminated: 966<br>
 
-<b>Department Analysis (Bar Chart)</b>
-Employees hired & terminated across departments (Operations, Sales, IT, etc.)
+<b>Department Analysis (Bar Chart)</b><br>
+Employees hired & terminated across departments (Operations, Sales, IT, etc.)<br>
 
-<b>Demographics Section</b>
-Gender split (46% Female, 54% Male)
-Education & Age distribution
-Education vs. Performance heatmap
+<b>Demographics Section</b><br>
+Gender split (46% Female, 54% Male)<br>
+Education & Age distribution<br>
+Education vs. Performance heatmap<br>
 
-<b>Income & Salary Analysis</b>
-Salary breakdown by education and gender
-Age vs. Salary scatter plot with job titles
+<b>Income & Salary Analysis</b><br>
+Salary breakdown by education and gender<br>
+Age vs. Salary scatter plot with job titles<br>
 
-<b>Location Overview (Map + Bar)</b>
-Geographic distribution of employees across branches & HQ
+<b>Location Overview (Map + Bar)</b><br>
+Geographic distribution of employees across branches & HQ<br>
 
-# 🔹<b> Business Impact & Insights</b>
-👩‍💻 Workforce Diversity: Gender balance & education-level representation.
-📉 Retention & Attrition: Track termination patterns across departments.
-💵 Compensation Analysis: Identify salary gaps by education, gender, and age.
-🎯 Strategic HR Decisions: Helps optimize recruitment, training, and salary benchmarking.
+# 🔹<b> Business Impact & Insights</b><br>
+👩‍💻 Workforce Diversity: Gender balance & education-level representation.<br>
+📉 Retention & Attrition: Track termination patterns across departments.<br>
+💵 Compensation Analysis: Identify salary gaps by education, gender, and age.<br>
+🎯 Strategic HR Decisions: Helps optimize recruitment, training, and salary benchmarking.<br>
 
 📷 Screenshots / Demos
 
