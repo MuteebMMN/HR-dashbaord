@@ -16,13 +16,15 @@ The dashboard was built using the following tools and technologies:<br>
 📁 File Formats – .twbx (Tableau packaged workbook) for sharing and .png for previews.<br>
 
 # 📂 Data Source<br>
-Source: HR Dataset (Sample / Simulated Data).<br>
-The dataset includes:<br>
-Employee demographic details (gender, age, education)<br>
-Hiring & termination records<br>
-Salary & income distribution by education and gender<br>
-Department-level workforce distribution<br>
-Performance evaluations<br>
+The dataset includes:
+  <ul>
+    <li>👩‍💼 Employee demographic details (gender, age, education)</li>
+    <li>📊 Hiring &amp; termination records</li>
+    <li>💰 Salary &amp; income distribution by education and gender</li>
+    <li>🏢 Department-level workforce distribution</li>
+    <li>⭐ Performance evaluations</li>
+  </ul>
+
 
 #  🚀 Features / Highlights<br>
 🔹 <b>Business Problem</b><br>
