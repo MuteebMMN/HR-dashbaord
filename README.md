@@ -84,7 +84,7 @@ The dataset includes:
 💵 Compensation Analysis: Identify salary gaps by education, gender, and age.<br>
 🎯 Strategic HR Decisions: Helps optimize recruitment, training, and salary benchmarking.<br>
 
-📷 Screenshots / Demos
+# 📷 Screenshots / Demos
 
 Here’s a preview of the dashboard:
 <img width="1414" height="814" alt="image" src="https://github.com/user-attachments/assets/c8d77523-9ad0-4552-92f4-60c926e726de" />
